@@ -1,0 +1,10 @@
+.Korpa-Proizvod {
+    display: flex;
+
+}
+.Korpa-Proizvod div {
+    margin-right: 10px;
+}
+.Korpa-Stanje input {
+    width: 50px;
+}

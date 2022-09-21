@@ -1,0 +1,13 @@
+.Proizvod {
+    background: #fefefe;
+    border-bottom: 1px solid gray;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.Proizvod-Title {
+    font-size: 20px;
+    margin: 0 0 8px 0;
+}
+.Proizvod-Slika img {
+    height: 70px;
+}
